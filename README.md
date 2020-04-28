@@ -1,6 +1,6 @@
 # whatsapp
 
-A new Flutter application.
+Whats App UI Design in Flutter
 
 ## Getting Started
 
