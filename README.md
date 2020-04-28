@@ -2,6 +2,11 @@
 
 Whats App UI Design in Flutter
 
+Video in Tamil
+https://youtu.be/HEhEL6ARWUQ
+
+Designed by Tutor Joes
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
